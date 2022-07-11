@@ -17,7 +17,7 @@ Explicações gerais no video:
 - Alexandre Dantas dos Santos
 - Daniel do Nascimento Gomes
 - Elexandro Torres Tavares
-- Felipe Douglas Cavalvante Marinho de Vasconcelos
+- Felipe Douglas Cavalcante Marinho de Vasconcelos
 - Rafael Silva Freire
 
 
