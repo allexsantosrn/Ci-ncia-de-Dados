@@ -10,8 +10,6 @@ Para fazer este projeto, usamos a linguagem python junto com as seguintes biblio
 
 Link do notebook com informações do projeto: [Notebook](https://github.com/allexsantosrn/Ciencia-de-Dados/blob/main/DataScienceProject.ipynb)
 
-Explicações gerais no video: 
-
 # Autores
 
 - Alexandre Dantas dos Santos
